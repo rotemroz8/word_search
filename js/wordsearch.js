@@ -60,7 +60,7 @@
       var isWorked = false;
 	  
 	  if (this.settings.test) {
-			this.words = ['browser'];
+			this.words = ['דפדפן'];
 	  }
 	
       while (isWorked == false) {
@@ -286,7 +286,7 @@
   WordSeach.prototype.testmatrix = function(size) {
     var test_matrix = [
 	['.','.','.','.','.','.','.','.','.'],
-	['.','B','R','O','W','S','E','R','.'],
+	['.','.','.','ד','פ','ד','פ','ן','.'],
 	['.','.','.','.','.','.','.','.','.']
 	];
 	for (var row = 0; row<3; row++) {
