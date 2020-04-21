@@ -19,3 +19,13 @@ function score() {
 	}
      return score.counter;		
 }
+
+function score1() {
+	if ( typeof score.counter == 'undefined' ) {
+             // It has not... perform the initialization
+             score.counter = 0;
+        } else {
+		score.counter = score.counter + 1;
+	}
+     return score.counter;		
+}
