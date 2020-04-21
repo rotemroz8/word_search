@@ -312,7 +312,7 @@
 	//}
 	 	//puzzle 85 from jumbo word puzzle book volume 46, landolls, 1995, ashland, oh
 	var control_matrix = [
-[	'V', 	'H', 	'W', 	'X', 	'S', 	'C', 	'E', 	'P', 	'T', 	'E', 	'R', 	'C', 	'R', 	'S', 	'P', 	'S', 	'J', 	'T'	],
+[	'א', 	'ב', 	'ג', 	'ד', 	'ה', 	'ו', 	'ז', 	'ח', 	'T', 	'E', 	'R', 	'C', 	'R', 	'S', 	'P', 	'S', 	'J', 	'T'	],
 [	'S', 	'T', 	'T', 	'T', 	'N', 	'X', 	'D', 	'Y', 	'D', 	'X', 	'L', 	'M', 	'W', 	'K', 	'A', 	'O', 	'B', 	'C'	],
 [	'G', 	'N', 	'A', 	'R', 	'C', 	'W', 	'O', 	'E', 	'A', 	'Y', 	'T', 	'R', 	'S', 	'V', 	'L', 	'V', 	'G', 	'J'	],
 [	'C', 	'T', 	'O', 	'D', 	'O', 	'P', 	'O', 	'F', 	'S', 	'N', 	'N', 	'R', 	'A', 	'H', 	'A', 	'E', 	'G', 	'P'	],
